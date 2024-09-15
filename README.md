@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Knuger67
 - 👀 I’m interested in developing apps, scripts for fivem, design
-- 🌱 I’m currently learning Java, JavaScript, LUA, C++
+- 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me: DISCORD: K N U G E R#7215
