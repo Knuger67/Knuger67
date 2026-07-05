@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Knuger67
-- 👀 I’m interested in developing apps, scripts for fivem, design
+- 👀 I make websites, WHMCS addons, VS CODE extensions and much more
 - 🌱 I’m currently learning Cybersecurity
-- 📫 How to reach me: DISCORD: K N U G E R#7215
+- 📫 How to reach me: DISCORD: 6knuger
